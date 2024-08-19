@@ -189,7 +189,9 @@
 <div class="col-md-12">
 <div class="d-flex flex-column comment-section">
     <div class="p-2" style="border-bottom: double;" >
-        <h4>My Review</h4>
+        <div class="d-flex justify-content-center row">
+            <h4>My Review</h4>
+        </div>
         <a href="{{ route('Profil', $myreview->akun->slug) }}" style="color: #0f0f0f">
         <div class="d-flex flex-row user-info" >
 
@@ -248,7 +250,27 @@
 @endisset
 
 @endauth
-
+<div style="border-bottom: double;">
+    <div id="latest" class="d-flex justify-content-center row">
+        <h4>Latest review</h4>
+    </div>
+    <div class="d-flex justify-content-center row">
+        <div class="form-group">
+            <form action="{{ route('Detail',$movie->slug)}}#latest" method="GET">
+                <select onchange="this.form.submit()" name="rate" id="rate" class="btn btn-secondary btn-rounded form-control" id="exampleFormControlSelect1">
+                    <option value="">Sort</option>
+                    @for ($i=10;$i>0;$i--)
+                        <option value="{{ $i }}"
+                        @if (app('request')->input('rate')==$i)
+                            selected
+                        @endif >{{ $i }}</option>
+                    @endfor
+                </select>
+            </form>
+    </div>
+    <br/>
+</div>
+</div>
 @foreach ( $movie->review as $review)
 
 
@@ -264,7 +286,7 @@
                         <div class="d-flex flex-column justify-content-start ml-2">
 
                             <span class="d-block font-weight-bold name">{{ $review->akun->username }} <i class="fa fa-angle-double-right" style="color: black;font-size:26px"></i>&nbsp;&nbsp;{{ $review->akun->title }} </span>
-                            <span class="d-block font-weight-bold name">Rates: {{ $review->rates }} <i class="fa fa-star" aria-hidden="true"></i> </span>
+                            <span class="d-block font-weight-bold name">Rates: {{ $review->rates }}<i class="fa fa-star" aria-hidden="true"></i></span>
                         </div>
                     </div>
                 </a>

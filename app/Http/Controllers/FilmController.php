@@ -154,11 +154,11 @@ class FilmController extends Controller
     /**
      * Display the specified resource.
      */
-    public function show($slug)
+    public function show($slug, Request $request)
     {
         $id = optional(Auth::user())->id;
         $movie = Film::select('*')->where('slug', $slug)->with('fav')->first();
-        $movie->setRelation('review', $movie->review()->orderBy('created_at', 'desc')->whereNot('user_id', $id)->paginate(5));
+        $movie->setRelation('review', $movie->review()->where('rates','REGEXP', $request->rate)->orderBy('created_at', 'desc')->whereNot('user_id', $id)->paginate(5));
         $like= Like::select('*')->where('user_id', $id)->get();
         //     $fav= Fav::select('*')->where('movie_id', $slug)->where('user_id', $id)->first();
         $myreview= Review::select('*')->where('movie_id', $movie->id)->where('user_id', $id)->with('akun')->first();
