@@ -37,53 +37,78 @@
         </div>
         </form>
     </div>
-    <br/><br/>
+    <div class="container">
+    <div class="row">
+        <div class="col-md-8">
 @foreach ( $categories as $category)
 
 <section onmouseover="{{ $category->genre }}()" id="{{ $category->genre }}">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8">
-                <h2 class="section-heading" style="color: white">{{ $category->genre }}</h2>
-            </div>
-        </div>
-        <div class="row d-flex justify-content-center" id="{{ $category->genre }}">
-            @php
-                $i=0;
-            @endphp
-            @foreach ( $movies as $movie )
-            @if ($movie->genre == $category->genre)
-            @php
-                $i++
-            @endphp
-            @if ($i>6)
-                @break
-            @endif
-            <div class="col-md-4 mb-4 box-item" >
-            <a class="box-link" data-toggle="modal" href="#portfolio1Modal{{ $movie->id }}">
-                <div class="box-hover">
-                    <div class="portfolio-hover-content">
-                        <p style="text-align: center; color: white"> {{ $movie->scores }} <i class="fa fa-star" aria-hidden="true"></i> </p>
+                <div class="row">
+                    <div class="col-md-8">
+                        <h2 class="section-heading" style="color: white">{{ $category->genre }}</h2>
                     </div>
                 </div>
-                <img class="img-fluid" src="{{ asset('storage/' . $movie->img) }}" onerror="this.onerror=null; this.src='{{ asset('img/cover.jpg') }}'" width="640px" height="426px">
-            </a>
-            <div class="portfolio-caption">
-                <h4 style="text-align: center; color: white">{{ $movie->title }}</h4>
-                <p style="text-align: center; color: white"> {{ $movie->genre }} </p>
+                <div class="row d-flex justify-content-center" id="{{ $category->genre }}">
+                    @php
+                        $i=0;
+                    @endphp
+                    @foreach ( $movies as $movie )
+                    @if ($movie->genre == $category->genre)
+                    @php
+                        $i++
+                    @endphp
+                    @if ($i>6)
+                        @break
+                    @endif
+                    <div class="col-md-4 mb-4 box-item" >
+                    <a class="box-link" data-toggle="modal" href="#portfolio1Modal{{ $movie->id }}">
+                        <div class="box-hover">
+                            <div class="portfolio-hover-content">
+                                <p style="text-align: center; color: white"> {{ $movie->scores }} <i class="fa fa-star" aria-hidden="true"></i> </p>
+                            </div>
+                        </div>
+                        <img class="img-fluid" src="{{ asset('storage/' . $movie->img) }}" onerror="this.onerror=null; this.src='{{ asset('img/cover.jpg') }}'" width="640px" height="426px">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4 style="text-align: center; color: white">{{ $movie->title }}</h4>
+                        <p style="text-align: center; color: white"> {{ $movie->genre }} </p>
+                    </div>
+                </div>
+                    @endif
+                    @endforeach
+                    <a class="btn-block" href="{{ route('Search') }}?search={{ $category->genre }}">
+                        <button type="button" class="btn btn-light btn-rounded btn-block" data-mdb-ripple-init data-mdb-ripple-color="dark">See More</button>
+                    </a>
+                </div>
+
+            </section>
+            @endforeach
+        </div>
+        <div class="col-md-4 d-sm-none d-md-block ">
+            <div class="sticky-top " style=" padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;">
+                <div class="row d-flex justify-content-center text-center bg-warning text-white">
+                    <h2 class="section-heading">Most Rated Movie</h2>
+                </div>
+                <div class="row d-flex justify-content-center bg-dark">
+                    <div class="box-item " >
+                        <a class="box-link" data-toggle="modal" href="#portfolio1Modal{{ $popular->id }}">
+                            <img class="img-fluid px-5" src="{{ asset('storage/' . $popular->img) }}" onerror="this.onerror=null; this.src='{{ asset('img/cover.jpg') }}'" width="640px" height="426px">
+                            <div class="portfolio-caption  rounded">
+                                <h4 style="text-align: center; color: white">{{ $popular->title }}</h4>
+                                <p style="text-align: center; color: white"> {{ $popular->scores }} <i class="fa fa-star" aria-hidden="true"></i>
+                                <br/>
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
-
-            @endif
-            @endforeach
-            <a class="btn-block" href="{{ route('Search') }}?search={{ $category->genre }}">
-                <button type="button" class="btn btn-light btn-rounded btn-block" data-mdb-ripple-init data-mdb-ripple-color="dark">See More</button>
-            </a>
-
-        </div>
     </div>
-</section>
-@endforeach
+</div>
     <br/><br/>
 @foreach ( $movies as $movie )
 

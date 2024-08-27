@@ -24,8 +24,9 @@ class FilmController extends Controller
     {
         $title = 'Home';
         $movies = Film::select('*')->get();
+        $popular = Film::select('*')->orderBy('scores','desc')->first();
         $categories = Film::select('genre')->orderBy('genre')->distinct()->get();
-        return view('Home', compact('movies','title','categories'));
+        return view('Home', compact('movies','title','categories','popular'));
     }
 
     public function Search(Request $request)
