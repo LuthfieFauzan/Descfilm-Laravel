@@ -1,5 +1,4 @@
-[
-    {
+ {
         "id": 1,
         "title": "War Dogs",
         "slug": "War-Dogs",
@@ -20,27 +19,4 @@
         "scores": "6.25",
         "updated_at": null,
         "created_at": null
-    },
-    {
-        "id": 2,
-        "title": "Bad Moms",
-        "slug": "Bad-Moms",
-        "img": "Film\\vKHIDUdpsgkaYcsbaGEdP0hyKBHxlz04Ybmm8LQN.jpg",
-        "genre": "Comedy",
-        "language": "English",
-        "runtime": "101 min",
-        "producer": "Bill Block, Suzanne Todd",
-        "director": "Jon Lucas, Scott Moore",
-        "distributor": "STX Entertainment",
-        "year": 2016,
-        "rating": "R",
-        "casts": "Mila Kunis, Kathryn Hahn, Kristen Bell, Christina Applegate, Jada Pinkett Smith",
-        "synopsisshort": "When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun and comedic self-indulgence.",
-        "synopsisline1": "Amy is a hard-working mom. Between caring for her two children, shuttling them to activities and having to pick up the slack for her lazy husband, she works at a company filled with millennials who have no work ethic or clue about her life. Even more unproductive is all the nonsense she has to endure just to be a 'good mom'. In particular, PTA meetings and other PTA functions. This leaves her no time for relaxation or just to be herself. One day she rebels against the system and decides to let go, ditching all the unnecessary bs in her life. This gains her some friends among the other moms - two in particular, Carla and Kiki - but pits her against the President of the PTA, Gwendolyn James, who is a nasty piece of work.",
-        "synopsisline2": "With her most important job being a mother, the underpaid and overworked Chicago coffee company representative, Amy Mitchell, is struggling to juggle work, parenting, a strained relationship with her husband, and two kids. On the go and always in a rush, the suburban mum will eventually snap at president Gwendolyn's PTA meeting, taking the decision of rebelling against an unfair system and the distressing expectations of a near-perfect motherhood. As a result, two new friends will become indispensable in Amy's life--the stressed-out moms, Kiki and Carla--who have also decided to embrace being 'bad' moms and live a little, far away from rules and obligations. But with the diva Gwendolyn watching them like a hawk, will the girls make a stand against all forms of oppression?",
-        "videourl": "https://www.youtube.com/embed/iKCw-kqo3cs",
-        "scores": "5.75",
-        "updated_at": null,
-        "created_at": null
     }
-]
