@@ -7,7 +7,21 @@
         "movie_id": 15,
         "user_id": 93,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 93,
+            "email": "stacy87@example.net",
+            "slug": "id-dolorum-sint-hic-quidem-debitis-qui-provident",
+            "username": "Daphney Turner II",
+            "gender": "Male",
+            "date_of_birth": "2012-11-16",
+            "img": "https://via.placeholder.com/640x480.png/004466?text=animals+voluptatibus",
+            "desc": "Totam sed est velit. Architecto quasi sapiente minus suscipit aut consequatur dolores. Voluptatum beatae nesciunt est.",
+            "title": "Movie Enjoyer",
+            "Exp": 25,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 105,
@@ -17,7 +31,21 @@
         "movie_id": 14,
         "user_id": 88,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 88,
+            "email": "murray.balistreri@example.net",
+            "slug": "impedit-deleniti-temporibus-unde",
+            "username": "Leanne Miller III",
+            "gender": "Male",
+            "date_of_birth": "1998-11-17",
+            "img": "https://via.placeholder.com/640x480.png/0033dd?text=animals+est",
+            "desc": "Doloremque maiores et rem et. Quos saepe ut quis quia ipsum accusantium eius. Dignissimos repellat deleniti omnis nostrum itaque qui.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 106,
@@ -27,7 +55,21 @@
         "movie_id": 9,
         "user_id": 86,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 86,
+            "email": "nat.parisian@example.org",
+            "slug": "tempore-autem-dolores-est",
+            "username": "Edd Robel",
+            "gender": "Male",
+            "date_of_birth": "1994-01-05",
+            "img": "https://via.placeholder.com/640x480.png/006633?text=animals+veritatis",
+            "desc": "Fugiat temporibus quos consequatur. Omnis harum suscipit voluptatem itaque sit. Ullam officia iure ullam numquam officiis. Labore sint numquam repellat et aut.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 107,
@@ -37,7 +79,21 @@
         "movie_id": 10,
         "user_id": 70,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 70,
+            "email": "kbashirian@example.net",
+            "slug": "aut-ullam-voluptatibus-provident-atque-ea-laborum",
+            "username": "Green Cormier",
+            "gender": "Male",
+            "date_of_birth": "1993-09-27",
+            "img": "https://via.placeholder.com/640x480.png/00aaaa?text=animals+a",
+            "desc": "Voluptate cumque voluptas maiores alias. Velit eaque modi repudiandae dolorem atque tempore recusandae. Et doloremque corporis aspernatur cumque.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 108,
@@ -47,7 +103,21 @@
         "movie_id": 16,
         "user_id": 65,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 65,
+            "email": "vrice@example.com",
+            "slug": "ipsa-quia-cumque-corrupti-soluta-reiciendis-architecto-hic",
+            "username": "Adrienne Nienow",
+            "gender": "Male",
+            "date_of_birth": "1991-07-01",
+            "img": "https://via.placeholder.com/640x480.png/002233?text=a",
+            "desc": "Veniam culpa neque praesentium enim maxime. Voluptatem doloremque iure et assumenda sunt cupiditate. Eos ad eum et dolorem dolore laboriosam molestiae.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 109,
@@ -57,7 +127,21 @@
         "movie_id": 3,
         "user_id": 71,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 71,
+            "email": "jaquelin83@example.net",
+            "slug": "blanditiis-natus-omnis-repellendus-sit-atque-quibusdam",
+            "username": "Prof. Dora Cremin Sr.",
+            "gender": "Male",
+            "date_of_birth": "1975-11-08",
+            "img": "https://via.placeholder.com/640x480.png/00eeff?text=animals+illo",
+            "desc": "Fuga dicta vitae delectus consequatur blanditiis rerum. Eveniet nostrum est omnis occaecati aut voluptate. Veritatis autem sequi voluptatem velit corporis necessitatibus ducimus. Sint eligendi dolorem in autem. Minima quasi quibusdam ipsam perspiciatis non.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 110,
@@ -67,7 +151,21 @@
         "movie_id": 11,
         "user_id": 87,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 87,
+            "email": "isac38@example.com",
+            "slug": "rem-rerum-harum-et-rem-voluptate-dolor-distinctio",
+            "username": "Joanne Jakubowski",
+            "gender": "Male",
+            "date_of_birth": "2003-10-23",
+            "img": "https://via.placeholder.com/640x480.png/007766?text=animals+repellendus",
+            "desc": "Temporibus magnam consequatur soluta quibusdam. Corporis cum dignissimos et non. Dicta sed ut architecto aut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 111,
@@ -77,7 +175,21 @@
         "movie_id": 6,
         "user_id": 74,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 74,
+            "email": "tbatz@example.net",
+            "slug": "et-ut-enim-fugit-assumenda-natus",
+            "username": "Desiree Johnson",
+            "gender": "Male",
+            "date_of_birth": "2003-09-21",
+            "img": "https://via.placeholder.com/640x480.png/00ffdd?text=animals+consequatur",
+            "desc": "Sequi possimus nulla quidem autem. Architecto commodi dolor ullam cum quam aut. Consequatur sunt consequuntur libero incidunt qui ut sequi. Eos impedit provident cupiditate.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 112,
@@ -87,7 +199,21 @@
         "movie_id": 12,
         "user_id": 97,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 97,
+            "email": "swaniawski.milan@example.com",
+            "slug": "beatae-expedita-enim-suscipit-rerum-officiis-voluptates-cupiditate-exercitationem",
+            "username": "Earnestine Lockman",
+            "gender": "Male",
+            "date_of_birth": "2012-02-28",
+            "img": "https://via.placeholder.com/640x480.png/00aa33?text=animals+quia",
+            "desc": "Nobis rerum ut exercitationem maxime quia voluptatem. Soluta consequatur quod unde rerum est eum. Rerum beatae dolor aut esse. Beatae quibusdam at maiores aspernatur enim magni autem expedita.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 113,
@@ -97,7 +223,21 @@
         "movie_id": 5,
         "user_id": 90,
         "updated_at": "2024-08-16T15:57:57.000000Z",
-        "created_at": "2024-08-16T15:57:57.000000Z"
+        "created_at": "2024-08-16T15:57:57.000000Z",
+        "akun": {
+            "id": 90,
+            "email": "veronica70@example.com",
+            "slug": "accusamus-illo-accusamus-enim-autem",
+            "username": "Nadia Crooks",
+            "gender": "Male",
+            "date_of_birth": "1985-04-07",
+            "img": "https://via.placeholder.com/640x480.png/004422?text=animals+similique",
+            "desc": "Voluptates aliquid ad illo. Voluptatum nemo voluptas at iste accusantium. Aspernatur eligendi fugiat laborum. Quo deserunt eos nemo consectetur ipsam harum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 115,
@@ -107,7 +247,21 @@
         "movie_id": 18,
         "user_id": 81,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 81,
+            "email": "hector26@example.net",
+            "slug": "in-quia-aut-aut-officia",
+            "username": "Shanelle Sipes",
+            "gender": "Male",
+            "date_of_birth": "1995-02-16",
+            "img": "https://via.placeholder.com/640x480.png/0099dd?text=animals+similique",
+            "desc": "Vero et voluptates rem blanditiis quibusdam aut. Exercitationem dolores est magni harum iure ex. Reiciendis quisquam quidem non tenetur voluptate.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 116,
@@ -117,7 +271,21 @@
         "movie_id": 7,
         "user_id": 66,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 66,
+            "email": "kameron.koelpin@example.com",
+            "slug": "eveniet-laboriosam-commodi-mollitia-ex-odio",
+            "username": "Miss Marielle Keebler Jr.",
+            "gender": "Male",
+            "date_of_birth": "2005-12-02",
+            "img": "https://via.placeholder.com/640x480.png/00aa11?text=optio",
+            "desc": "Non laboriosam quia quo eligendi magni. Quia rerum expedita ducimus sed. Voluptatem dolor velit perferendis eum. Harum et et ratione earum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 117,
@@ -127,7 +295,21 @@
         "movie_id": 9,
         "user_id": 91,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 91,
+            "email": "runolfsdottir.winnifred@example.org",
+            "slug": "asperiores-necessitatibus-et-rerum-quisquam-perferendis-nam",
+            "username": "Elmo Gutmann",
+            "gender": "Male",
+            "date_of_birth": "1981-05-17",
+            "img": "https://via.placeholder.com/640x480.png/0011dd?text=animals+aut",
+            "desc": "Saepe sapiente sequi eligendi non a id. Doloremque tenetur quis est quos. Ut laborum id sed quasi. Perferendis suscipit aut enim est error ut consequatur.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 118,
@@ -137,7 +319,21 @@
         "movie_id": 16,
         "user_id": 66,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 66,
+            "email": "kameron.koelpin@example.com",
+            "slug": "eveniet-laboriosam-commodi-mollitia-ex-odio",
+            "username": "Miss Marielle Keebler Jr.",
+            "gender": "Male",
+            "date_of_birth": "2005-12-02",
+            "img": "https://via.placeholder.com/640x480.png/00aa11?text=optio",
+            "desc": "Non laboriosam quia quo eligendi magni. Quia rerum expedita ducimus sed. Voluptatem dolor velit perferendis eum. Harum et et ratione earum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 119,
@@ -147,7 +343,21 @@
         "movie_id": 2,
         "user_id": 95,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 95,
+            "email": "skylar51@example.net",
+            "slug": "adipisci-quod-deserunt-delectus",
+            "username": "Susan Kihn MD",
+            "gender": "Male",
+            "date_of_birth": "1983-10-03",
+            "img": "https://via.placeholder.com/640x480.png/00bbaa?text=animals+nam",
+            "desc": "Blanditiis ipsam quo nostrum voluptas excepturi. Inventore repudiandae eligendi magni voluptatem. Est ipsa voluptas aut eum deleniti quibusdam quo.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 120,
@@ -157,7 +367,21 @@
         "movie_id": 13,
         "user_id": 98,
         "updated_at": "2024-08-16T16:39:08.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 98,
+            "email": "elody.shanahan@example.net",
+            "slug": "dignissimos-qui-voluptate-voluptatibus-eius-magni-earum-velit",
+            "username": "Prof. Hudson Rempel V",
+            "gender": "Male",
+            "date_of_birth": "1976-02-28",
+            "img": "https://via.placeholder.com/640x480.png/00eeff?text=animals+voluptatem",
+            "desc": "Qui aut possimus illo. Et id porro sit commodi aspernatur quas et. Vitae qui id recusandae alias error neque. Eligendi consequatur optio qui sed.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 121,
@@ -167,7 +391,21 @@
         "movie_id": 1,
         "user_id": 91,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 91,
+            "email": "runolfsdottir.winnifred@example.org",
+            "slug": "asperiores-necessitatibus-et-rerum-quisquam-perferendis-nam",
+            "username": "Elmo Gutmann",
+            "gender": "Male",
+            "date_of_birth": "1981-05-17",
+            "img": "https://via.placeholder.com/640x480.png/0011dd?text=animals+aut",
+            "desc": "Saepe sapiente sequi eligendi non a id. Doloremque tenetur quis est quos. Ut laborum id sed quasi. Perferendis suscipit aut enim est error ut consequatur.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 122,
@@ -177,7 +415,21 @@
         "movie_id": 8,
         "user_id": 72,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 72,
+            "email": "mgislason@example.com",
+            "slug": "quia-aspernatur-et-velit-voluptatum-tenetur",
+            "username": "Laurence Walsh",
+            "gender": "Male",
+            "date_of_birth": "1970-08-02",
+            "img": "https://via.placeholder.com/640x480.png/00ccee?text=animals+omnis",
+            "desc": "Saepe doloribus voluptatem fugit ipsum. Consequuntur nemo aspernatur ullam alias inventore omnis omnis ut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 123,
@@ -187,7 +439,21 @@
         "movie_id": 5,
         "user_id": 83,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 83,
+            "email": "keebler.elena@example.net",
+            "slug": "sed-perspiciatis-odio-omnis-et-velit-expedita-ullam-ut",
+            "username": "Tristian Hermann",
+            "gender": "Male",
+            "date_of_birth": "1991-07-03",
+            "img": "https://via.placeholder.com/640x480.png/005522?text=animals+fugiat",
+            "desc": "Possimus in natus non nostrum laboriosam impedit velit. Et aliquid ab accusantium error.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 124,
@@ -197,7 +463,21 @@
         "movie_id": 6,
         "user_id": 85,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 85,
+            "email": "manuela15@example.com",
+            "slug": "sapiente-dignissimos-possimus-architecto-ipsa",
+            "username": "Mrs. Meaghan Runolfsson",
+            "gender": "Male",
+            "date_of_birth": "2022-03-23",
+            "img": "https://via.placeholder.com/640x480.png/0033bb?text=animals+ut",
+            "desc": "Eum sit molestiae ullam ex. Tempora veniam quibusdam et. Odio nemo eos commodi deserunt iste.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 125,
@@ -207,7 +487,21 @@
         "movie_id": 4,
         "user_id": 77,
         "updated_at": "2024-08-16T15:58:09.000000Z",
-        "created_at": "2024-08-16T15:58:09.000000Z"
+        "created_at": "2024-08-16T15:58:09.000000Z",
+        "akun": {
+            "id": 77,
+            "email": "vernie.rau@example.com",
+            "slug": "libero-et-veniam-quam-quaerat-autem-aut-vero",
+            "username": "Miss Everette Schuster",
+            "gender": "Male",
+            "date_of_birth": "1981-07-06",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+odio",
+            "desc": "Architecto aut delectus eum deleniti. Natus et ratione beatae recusandae animi rem enim qui. Saepe sed facilis eos iusto ab at. Asperiores maxime minus et explicabo excepturi.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:02.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 127,
@@ -217,7 +511,21 @@
         "movie_id": 5,
         "user_id": 89,
         "updated_at": "2024-08-16T15:58:10.000000Z",
-        "created_at": "2024-08-16T15:58:10.000000Z"
+        "created_at": "2024-08-16T15:58:10.000000Z",
+        "akun": {
+            "id": 89,
+            "email": "kaylah50@example.org",
+            "slug": "sunt-ut-consectetur-officia-consequuntur-eos",
+            "username": "Stanley Dooley",
+            "gender": "Male",
+            "date_of_birth": "1999-10-25",
+            "img": "https://via.placeholder.com/640x480.png/007766?text=animals+aut",
+            "desc": "Voluptate consequatur rem ullam occaecati perspiciatis quasi. Ipsa optio aut ex quisquam ut dolores alias. Et sit aut sit voluptatum corporis. Rerum similique officiis earum adipisci explicabo quisquam rerum dolore.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 129,
@@ -227,7 +535,21 @@
         "movie_id": 12,
         "user_id": 86,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 86,
+            "email": "nat.parisian@example.org",
+            "slug": "tempore-autem-dolores-est",
+            "username": "Edd Robel",
+            "gender": "Male",
+            "date_of_birth": "1994-01-05",
+            "img": "https://via.placeholder.com/640x480.png/006633?text=animals+veritatis",
+            "desc": "Fugiat temporibus quos consequatur. Omnis harum suscipit voluptatem itaque sit. Ullam officia iure ullam numquam officiis. Labore sint numquam repellat et aut.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 130,
@@ -237,7 +559,21 @@
         "movie_id": 5,
         "user_id": 96,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 96,
+            "email": "darrion69@example.org",
+            "slug": "sed-deleniti-voluptatum-qui",
+            "username": "Lyric Kessler MD",
+            "gender": "Male",
+            "date_of_birth": "1978-03-22",
+            "img": "https://via.placeholder.com/640x480.png/007711?text=animals+aperiam",
+            "desc": "Quidem natus perferendis quidem voluptatem provident qui facere. Consequatur facere repellendus reprehenderit deleniti itaque totam iusto.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 131,
@@ -247,7 +583,21 @@
         "movie_id": 10,
         "user_id": 69,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 69,
+            "email": "larkin.ignacio@example.com",
+            "slug": "unde-nam-quidem-repudiandae-consequatur-est-adipisci-quidem",
+            "username": "Neva Hoppe",
+            "gender": "Male",
+            "date_of_birth": "1987-05-16",
+            "img": "https://via.placeholder.com/640x480.png/0033bb?text=animals+accusantium",
+            "desc": "Ut debitis ea quam et quibusdam quis. Quo non unde aut cupiditate perferendis.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 132,
@@ -257,7 +607,21 @@
         "movie_id": 8,
         "user_id": 76,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 76,
+            "email": "mfriesen@example.org",
+            "slug": "hic-dolorem-doloribus-consectetur-iure-quia-quas-voluptates",
+            "username": "Prof. Hester Pacocha",
+            "gender": "Male",
+            "date_of_birth": "1982-12-11",
+            "img": "https://via.placeholder.com/640x480.png/00aa66?text=animals+et",
+            "desc": "Non harum est quae id quae. Temporibus qui laborum maxime minima mollitia. Culpa deserunt possimus necessitatibus facere quasi similique qui hic. Voluptatem ut omnis rem unde ea eum et.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 133,
@@ -267,7 +631,21 @@
         "movie_id": 1,
         "user_id": 65,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 65,
+            "email": "vrice@example.com",
+            "slug": "ipsa-quia-cumque-corrupti-soluta-reiciendis-architecto-hic",
+            "username": "Adrienne Nienow",
+            "gender": "Male",
+            "date_of_birth": "1991-07-01",
+            "img": "https://via.placeholder.com/640x480.png/002233?text=a",
+            "desc": "Veniam culpa neque praesentium enim maxime. Voluptatem doloremque iure et assumenda sunt cupiditate. Eos ad eum et dolorem dolore laboriosam molestiae.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 134,
@@ -277,7 +655,21 @@
         "movie_id": 18,
         "user_id": 78,
         "updated_at": "2024-11-15T02:49:12.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 78,
+            "email": "ward.mohr@example.net",
+            "slug": "dignissimos-quod-porro-voluptas-nostrum-qui-et",
+            "username": "Josie Klocko",
+            "gender": "Male",
+            "date_of_birth": "2002-05-04",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+similique",
+            "desc": "Qui aut aut sit molestias et illo. Ea consectetur molestiae enim ex similique sapiente dolores. Sunt sed dolores molestias et incidunt. Nihil repudiandae asperiores minus qui recusandae.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:12.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 135,
@@ -287,7 +679,21 @@
         "movie_id": 7,
         "user_id": 68,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 68,
+            "email": "rhegmann@example.org",
+            "slug": "qui-molestiae-optio-ratione-sequi",
+            "username": "Mrs. Clara Altenwerth",
+            "gender": "Male",
+            "date_of_birth": "2018-09-02",
+            "img": "https://via.placeholder.com/640x480.png/000099?text=asperiores",
+            "desc": "Placeat sunt et est cumque animi iusto eos. Quis debitis et dolor inventore eos modi.",
+            "title": "Movie Enjoyer",
+            "Exp": 5,
+            "updated_at": "2024-08-17T06:26:48.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 136,
@@ -297,7 +703,21 @@
         "movie_id": 17,
         "user_id": 89,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 89,
+            "email": "kaylah50@example.org",
+            "slug": "sunt-ut-consectetur-officia-consequuntur-eos",
+            "username": "Stanley Dooley",
+            "gender": "Male",
+            "date_of_birth": "1999-10-25",
+            "img": "https://via.placeholder.com/640x480.png/007766?text=animals+aut",
+            "desc": "Voluptate consequatur rem ullam occaecati perspiciatis quasi. Ipsa optio aut ex quisquam ut dolores alias. Et sit aut sit voluptatum corporis. Rerum similique officiis earum adipisci explicabo quisquam rerum dolore.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 137,
@@ -307,7 +727,21 @@
         "movie_id": 16,
         "user_id": 73,
         "updated_at": "2024-08-16T15:58:11.000000Z",
-        "created_at": "2024-08-16T15:58:11.000000Z"
+        "created_at": "2024-08-16T15:58:11.000000Z",
+        "akun": {
+            "id": 73,
+            "email": "amari.blanda@example.org",
+            "slug": "doloribus-sit-quis-saepe-modi-hic-quibusdam-aut-nihil",
+            "username": "Coralie Kuhn",
+            "gender": "Male",
+            "date_of_birth": "1998-12-18",
+            "img": "https://via.placeholder.com/640x480.png/00ff33?text=animals+ad",
+            "desc": "Omnis unde voluptas autem nemo ut. Laudantium cum quia enim sequi odio eveniet. Sint impedit soluta alias ullam molestiae eos.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:05.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 140,
@@ -317,7 +751,21 @@
         "movie_id": 10,
         "user_id": 94,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 94,
+            "email": "sydney.rogahn@example.com",
+            "slug": "esse-qui-voluptatem-et-consectetur-ex-officiis-deserunt-et",
+            "username": "Dr. Marjorie Bayer",
+            "gender": "Male",
+            "date_of_birth": "2022-09-07",
+            "img": "https://via.placeholder.com/640x480.png/00ccaa?text=animals+sit",
+            "desc": "Expedita soluta in ut sed. Quod dignissimos et consectetur. Sapiente voluptate minima amet dolore error ut.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 141,
@@ -327,7 +775,21 @@
         "movie_id": 1,
         "user_id": 68,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 68,
+            "email": "rhegmann@example.org",
+            "slug": "qui-molestiae-optio-ratione-sequi",
+            "username": "Mrs. Clara Altenwerth",
+            "gender": "Male",
+            "date_of_birth": "2018-09-02",
+            "img": "https://via.placeholder.com/640x480.png/000099?text=asperiores",
+            "desc": "Placeat sunt et est cumque animi iusto eos. Quis debitis et dolor inventore eos modi.",
+            "title": "Movie Enjoyer",
+            "Exp": 5,
+            "updated_at": "2024-08-17T06:26:48.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 142,
@@ -337,7 +799,21 @@
         "movie_id": 17,
         "user_id": 65,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 65,
+            "email": "vrice@example.com",
+            "slug": "ipsa-quia-cumque-corrupti-soluta-reiciendis-architecto-hic",
+            "username": "Adrienne Nienow",
+            "gender": "Male",
+            "date_of_birth": "1991-07-01",
+            "img": "https://via.placeholder.com/640x480.png/002233?text=a",
+            "desc": "Veniam culpa neque praesentium enim maxime. Voluptatem doloremque iure et assumenda sunt cupiditate. Eos ad eum et dolorem dolore laboriosam molestiae.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 143,
@@ -347,7 +823,21 @@
         "movie_id": 2,
         "user_id": 93,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 93,
+            "email": "stacy87@example.net",
+            "slug": "id-dolorum-sint-hic-quidem-debitis-qui-provident",
+            "username": "Daphney Turner II",
+            "gender": "Male",
+            "date_of_birth": "2012-11-16",
+            "img": "https://via.placeholder.com/640x480.png/004466?text=animals+voluptatibus",
+            "desc": "Totam sed est velit. Architecto quasi sapiente minus suscipit aut consequatur dolores. Voluptatum beatae nesciunt est.",
+            "title": "Movie Enjoyer",
+            "Exp": 25,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 144,
@@ -357,7 +847,21 @@
         "movie_id": 13,
         "user_id": 68,
         "updated_at": "2024-08-17T06:26:48.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 68,
+            "email": "rhegmann@example.org",
+            "slug": "qui-molestiae-optio-ratione-sequi",
+            "username": "Mrs. Clara Altenwerth",
+            "gender": "Male",
+            "date_of_birth": "2018-09-02",
+            "img": "https://via.placeholder.com/640x480.png/000099?text=asperiores",
+            "desc": "Placeat sunt et est cumque animi iusto eos. Quis debitis et dolor inventore eos modi.",
+            "title": "Movie Enjoyer",
+            "Exp": 5,
+            "updated_at": "2024-08-17T06:26:48.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 145,
@@ -367,7 +871,21 @@
         "movie_id": 16,
         "user_id": 97,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 97,
+            "email": "swaniawski.milan@example.com",
+            "slug": "beatae-expedita-enim-suscipit-rerum-officiis-voluptates-cupiditate-exercitationem",
+            "username": "Earnestine Lockman",
+            "gender": "Male",
+            "date_of_birth": "2012-02-28",
+            "img": "https://via.placeholder.com/640x480.png/00aa33?text=animals+quia",
+            "desc": "Nobis rerum ut exercitationem maxime quia voluptatem. Soluta consequatur quod unde rerum est eum. Rerum beatae dolor aut esse. Beatae quibusdam at maiores aspernatur enim magni autem expedita.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 146,
@@ -377,7 +895,21 @@
         "movie_id": 14,
         "user_id": 82,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 82,
+            "email": "qmckenzie@example.net",
+            "slug": "sed-cupiditate-et-et-aut-est-dignissimos",
+            "username": "Mr. Frederic Nikolaus PhD",
+            "gender": "Male",
+            "date_of_birth": "2017-12-18",
+            "img": "https://via.placeholder.com/640x480.png/00bb44?text=animals+ut",
+            "desc": "Vero sint eos dolores quas sit quasi. Hic quia possimus numquam voluptates consectetur optio quod. Dolore officia quasi perspiciatis dignissimos eaque harum non. Autem sed expedita officia nihil accusamus eos odio. Adipisci consectetur doloremque consectetur voluptatem necessitatibus veritatis corrupti porro.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 147,
@@ -387,7 +919,21 @@
         "movie_id": 5,
         "user_id": 82,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 82,
+            "email": "qmckenzie@example.net",
+            "slug": "sed-cupiditate-et-et-aut-est-dignissimos",
+            "username": "Mr. Frederic Nikolaus PhD",
+            "gender": "Male",
+            "date_of_birth": "2017-12-18",
+            "img": "https://via.placeholder.com/640x480.png/00bb44?text=animals+ut",
+            "desc": "Vero sint eos dolores quas sit quasi. Hic quia possimus numquam voluptates consectetur optio quod. Dolore officia quasi perspiciatis dignissimos eaque harum non. Autem sed expedita officia nihil accusamus eos odio. Adipisci consectetur doloremque consectetur voluptatem necessitatibus veritatis corrupti porro.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 148,
@@ -397,7 +943,21 @@
         "movie_id": 11,
         "user_id": 95,
         "updated_at": "2024-08-16T15:58:13.000000Z",
-        "created_at": "2024-08-16T15:58:13.000000Z"
+        "created_at": "2024-08-16T15:58:13.000000Z",
+        "akun": {
+            "id": 95,
+            "email": "skylar51@example.net",
+            "slug": "adipisci-quod-deserunt-delectus",
+            "username": "Susan Kihn MD",
+            "gender": "Male",
+            "date_of_birth": "1983-10-03",
+            "img": "https://via.placeholder.com/640x480.png/00bbaa?text=animals+nam",
+            "desc": "Blanditiis ipsam quo nostrum voluptas excepturi. Inventore repudiandae eligendi magni voluptatem. Est ipsa voluptas aut eum deleniti quibusdam quo.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 151,
@@ -407,7 +967,21 @@
         "movie_id": 1,
         "user_id": 90,
         "updated_at": "2024-08-16T16:32:05.000000Z",
-        "created_at": "2024-08-16T16:32:05.000000Z"
+        "created_at": "2024-08-16T16:32:05.000000Z",
+        "akun": {
+            "id": 90,
+            "email": "veronica70@example.com",
+            "slug": "accusamus-illo-accusamus-enim-autem",
+            "username": "Nadia Crooks",
+            "gender": "Male",
+            "date_of_birth": "1985-04-07",
+            "img": "https://via.placeholder.com/640x480.png/004422?text=animals+similique",
+            "desc": "Voluptates aliquid ad illo. Voluptatum nemo voluptas at iste accusantium. Aspernatur eligendi fugiat laborum. Quo deserunt eos nemo consectetur ipsam harum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 152,
@@ -417,7 +991,21 @@
         "movie_id": 16,
         "user_id": 70,
         "updated_at": "2024-08-16T16:32:05.000000Z",
-        "created_at": "2024-08-16T16:32:05.000000Z"
+        "created_at": "2024-08-16T16:32:05.000000Z",
+        "akun": {
+            "id": 70,
+            "email": "kbashirian@example.net",
+            "slug": "aut-ullam-voluptatibus-provident-atque-ea-laborum",
+            "username": "Green Cormier",
+            "gender": "Male",
+            "date_of_birth": "1993-09-27",
+            "img": "https://via.placeholder.com/640x480.png/00aaaa?text=animals+a",
+            "desc": "Voluptate cumque voluptas maiores alias. Velit eaque modi repudiandae dolorem atque tempore recusandae. Et doloremque corporis aspernatur cumque.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 153,
@@ -427,7 +1015,21 @@
         "movie_id": 9,
         "user_id": 94,
         "updated_at": "2024-08-16T16:32:05.000000Z",
-        "created_at": "2024-08-16T16:32:05.000000Z"
+        "created_at": "2024-08-16T16:32:05.000000Z",
+        "akun": {
+            "id": 94,
+            "email": "sydney.rogahn@example.com",
+            "slug": "esse-qui-voluptatem-et-consectetur-ex-officiis-deserunt-et",
+            "username": "Dr. Marjorie Bayer",
+            "gender": "Male",
+            "date_of_birth": "2022-09-07",
+            "img": "https://via.placeholder.com/640x480.png/00ccaa?text=animals+sit",
+            "desc": "Expedita soluta in ut sed. Quod dignissimos et consectetur. Sapiente voluptate minima amet dolore error ut.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 154,
@@ -437,7 +1039,21 @@
         "movie_id": 6,
         "user_id": 87,
         "updated_at": "2024-08-16T16:32:05.000000Z",
-        "created_at": "2024-08-16T16:32:05.000000Z"
+        "created_at": "2024-08-16T16:32:05.000000Z",
+        "akun": {
+            "id": 87,
+            "email": "isac38@example.com",
+            "slug": "rem-rerum-harum-et-rem-voluptate-dolor-distinctio",
+            "username": "Joanne Jakubowski",
+            "gender": "Male",
+            "date_of_birth": "2003-10-23",
+            "img": "https://via.placeholder.com/640x480.png/007766?text=animals+repellendus",
+            "desc": "Temporibus magnam consequatur soluta quibusdam. Corporis cum dignissimos et non. Dicta sed ut architecto aut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 155,
@@ -447,7 +1063,21 @@
         "movie_id": 8,
         "user_id": 78,
         "updated_at": "2024-08-16T16:32:05.000000Z",
-        "created_at": "2024-08-16T16:32:05.000000Z"
+        "created_at": "2024-08-16T16:32:05.000000Z",
+        "akun": {
+            "id": 78,
+            "email": "ward.mohr@example.net",
+            "slug": "dignissimos-quod-porro-voluptas-nostrum-qui-et",
+            "username": "Josie Klocko",
+            "gender": "Male",
+            "date_of_birth": "2002-05-04",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+similique",
+            "desc": "Qui aut aut sit molestias et illo. Ea consectetur molestiae enim ex similique sapiente dolores. Sunt sed dolores molestias et incidunt. Nihil repudiandae asperiores minus qui recusandae.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:12.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 156,
@@ -457,7 +1087,21 @@
         "movie_id": 14,
         "user_id": 80,
         "updated_at": "2024-08-16T16:32:05.000000Z",
-        "created_at": "2024-08-16T16:32:05.000000Z"
+        "created_at": "2024-08-16T16:32:05.000000Z",
+        "akun": {
+            "id": 80,
+            "email": "renner.heaven@example.com",
+            "slug": "officia-sed-soluta-vero-in-nemo-id",
+            "username": "Ara Baumbach",
+            "gender": "Male",
+            "date_of_birth": "2019-04-25",
+            "img": "https://via.placeholder.com/640x480.png/006677?text=animals+et",
+            "desc": "Fugit nam quia illo maxime natus unde voluptate. Aut voluptas quo quo sequi. Ut consectetur at id reiciendis laborum eligendi ratione. Commodi saepe inventore sapiente eum eum est eos.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 157,
@@ -467,7 +1111,21 @@
         "movie_id": 3,
         "user_id": 90,
         "updated_at": "2024-08-16T16:32:05.000000Z",
-        "created_at": "2024-08-16T16:32:05.000000Z"
+        "created_at": "2024-08-16T16:32:05.000000Z",
+        "akun": {
+            "id": 90,
+            "email": "veronica70@example.com",
+            "slug": "accusamus-illo-accusamus-enim-autem",
+            "username": "Nadia Crooks",
+            "gender": "Male",
+            "date_of_birth": "1985-04-07",
+            "img": "https://via.placeholder.com/640x480.png/004422?text=animals+similique",
+            "desc": "Voluptates aliquid ad illo. Voluptatum nemo voluptas at iste accusantium. Aspernatur eligendi fugiat laborum. Quo deserunt eos nemo consectetur ipsam harum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 160,
@@ -477,7 +1135,21 @@
         "movie_id": 4,
         "user_id": 97,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 97,
+            "email": "swaniawski.milan@example.com",
+            "slug": "beatae-expedita-enim-suscipit-rerum-officiis-voluptates-cupiditate-exercitationem",
+            "username": "Earnestine Lockman",
+            "gender": "Male",
+            "date_of_birth": "2012-02-28",
+            "img": "https://via.placeholder.com/640x480.png/00aa33?text=animals+quia",
+            "desc": "Nobis rerum ut exercitationem maxime quia voluptatem. Soluta consequatur quod unde rerum est eum. Rerum beatae dolor aut esse. Beatae quibusdam at maiores aspernatur enim magni autem expedita.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 161,
@@ -487,7 +1159,21 @@
         "movie_id": 10,
         "user_id": 67,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 67,
+            "email": "mathilde.adams@example.com",
+            "slug": "nostrum-et-et-totam-unde-voluptas-in-sunt",
+            "username": "Dr. Lorenza Strosin",
+            "gender": "Male",
+            "date_of_birth": "2017-08-18",
+            "img": "https://via.placeholder.com/640x480.png/0022bb?text=earum",
+            "desc": "Maxime qui culpa quo voluptas atque voluptatum magni. Et omnis dolor fugiat officia voluptas. Repellendus dolorem aut reprehenderit eum dolores quas. Voluptates dolores atque temporibus veniam fugiat.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 162,
@@ -497,7 +1183,21 @@
         "movie_id": 11,
         "user_id": 78,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 78,
+            "email": "ward.mohr@example.net",
+            "slug": "dignissimos-quod-porro-voluptas-nostrum-qui-et",
+            "username": "Josie Klocko",
+            "gender": "Male",
+            "date_of_birth": "2002-05-04",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+similique",
+            "desc": "Qui aut aut sit molestias et illo. Ea consectetur molestiae enim ex similique sapiente dolores. Sunt sed dolores molestias et incidunt. Nihil repudiandae asperiores minus qui recusandae.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:12.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 163,
@@ -507,7 +1207,21 @@
         "movie_id": 17,
         "user_id": 95,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 95,
+            "email": "skylar51@example.net",
+            "slug": "adipisci-quod-deserunt-delectus",
+            "username": "Susan Kihn MD",
+            "gender": "Male",
+            "date_of_birth": "1983-10-03",
+            "img": "https://via.placeholder.com/640x480.png/00bbaa?text=animals+nam",
+            "desc": "Blanditiis ipsam quo nostrum voluptas excepturi. Inventore repudiandae eligendi magni voluptatem. Est ipsa voluptas aut eum deleniti quibusdam quo.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 164,
@@ -517,7 +1231,21 @@
         "movie_id": 8,
         "user_id": 64,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 64,
+            "email": "qemard@example.org",
+            "slug": "voluptatum-reiciendis-adipisci-quam",
+            "username": "Brando Waters",
+            "gender": "Male",
+            "date_of_birth": "1977-03-21",
+            "img": "https://via.placeholder.com/640x480.png/0011bb?text=dignissimos",
+            "desc": "Sunt culpa recusandae non laboriosam deleniti alias. Sequi quisquam nisi dolor a suscipit molestiae. Et quod quam quo omnis eos est similique molestiae. Atque nostrum id exercitationem non eius. Et quasi eveniet recusandae.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 165,
@@ -527,7 +1255,21 @@
         "movie_id": 1,
         "user_id": 70,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 70,
+            "email": "kbashirian@example.net",
+            "slug": "aut-ullam-voluptatibus-provident-atque-ea-laborum",
+            "username": "Green Cormier",
+            "gender": "Male",
+            "date_of_birth": "1993-09-27",
+            "img": "https://via.placeholder.com/640x480.png/00aaaa?text=animals+a",
+            "desc": "Voluptate cumque voluptas maiores alias. Velit eaque modi repudiandae dolorem atque tempore recusandae. Et doloremque corporis aspernatur cumque.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 166,
@@ -537,7 +1279,21 @@
         "movie_id": 9,
         "user_id": 68,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 68,
+            "email": "rhegmann@example.org",
+            "slug": "qui-molestiae-optio-ratione-sequi",
+            "username": "Mrs. Clara Altenwerth",
+            "gender": "Male",
+            "date_of_birth": "2018-09-02",
+            "img": "https://via.placeholder.com/640x480.png/000099?text=asperiores",
+            "desc": "Placeat sunt et est cumque animi iusto eos. Quis debitis et dolor inventore eos modi.",
+            "title": "Movie Enjoyer",
+            "Exp": 5,
+            "updated_at": "2024-08-17T06:26:48.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 167,
@@ -547,7 +1303,21 @@
         "movie_id": 15,
         "user_id": 82,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 82,
+            "email": "qmckenzie@example.net",
+            "slug": "sed-cupiditate-et-et-aut-est-dignissimos",
+            "username": "Mr. Frederic Nikolaus PhD",
+            "gender": "Male",
+            "date_of_birth": "2017-12-18",
+            "img": "https://via.placeholder.com/640x480.png/00bb44?text=animals+ut",
+            "desc": "Vero sint eos dolores quas sit quasi. Hic quia possimus numquam voluptates consectetur optio quod. Dolore officia quasi perspiciatis dignissimos eaque harum non. Autem sed expedita officia nihil accusamus eos odio. Adipisci consectetur doloremque consectetur voluptatem necessitatibus veritatis corrupti porro.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 168,
@@ -557,7 +1327,21 @@
         "movie_id": 18,
         "user_id": 73,
         "updated_at": "2024-11-15T02:49:05.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 73,
+            "email": "amari.blanda@example.org",
+            "slug": "doloribus-sit-quis-saepe-modi-hic-quibusdam-aut-nihil",
+            "username": "Coralie Kuhn",
+            "gender": "Male",
+            "date_of_birth": "1998-12-18",
+            "img": "https://via.placeholder.com/640x480.png/00ff33?text=animals+ad",
+            "desc": "Omnis unde voluptas autem nemo ut. Laudantium cum quia enim sequi odio eveniet. Sint impedit soluta alias ullam molestiae eos.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:05.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 169,
@@ -567,7 +1351,21 @@
         "movie_id": 6,
         "user_id": 86,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 86,
+            "email": "nat.parisian@example.org",
+            "slug": "tempore-autem-dolores-est",
+            "username": "Edd Robel",
+            "gender": "Male",
+            "date_of_birth": "1994-01-05",
+            "img": "https://via.placeholder.com/640x480.png/006633?text=animals+veritatis",
+            "desc": "Fugiat temporibus quos consequatur. Omnis harum suscipit voluptatem itaque sit. Ullam officia iure ullam numquam officiis. Labore sint numquam repellat et aut.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 170,
@@ -577,7 +1375,21 @@
         "movie_id": 16,
         "user_id": 93,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 93,
+            "email": "stacy87@example.net",
+            "slug": "id-dolorum-sint-hic-quidem-debitis-qui-provident",
+            "username": "Daphney Turner II",
+            "gender": "Male",
+            "date_of_birth": "2012-11-16",
+            "img": "https://via.placeholder.com/640x480.png/004466?text=animals+voluptatibus",
+            "desc": "Totam sed est velit. Architecto quasi sapiente minus suscipit aut consequatur dolores. Voluptatum beatae nesciunt est.",
+            "title": "Movie Enjoyer",
+            "Exp": 25,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 171,
@@ -587,7 +1399,21 @@
         "movie_id": 2,
         "user_id": 64,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 64,
+            "email": "qemard@example.org",
+            "slug": "voluptatum-reiciendis-adipisci-quam",
+            "username": "Brando Waters",
+            "gender": "Male",
+            "date_of_birth": "1977-03-21",
+            "img": "https://via.placeholder.com/640x480.png/0011bb?text=dignissimos",
+            "desc": "Sunt culpa recusandae non laboriosam deleniti alias. Sequi quisquam nisi dolor a suscipit molestiae. Et quod quam quo omnis eos est similique molestiae. Atque nostrum id exercitationem non eius. Et quasi eveniet recusandae.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 173,
@@ -597,7 +1423,21 @@
         "movie_id": 10,
         "user_id": 81,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 81,
+            "email": "hector26@example.net",
+            "slug": "in-quia-aut-aut-officia",
+            "username": "Shanelle Sipes",
+            "gender": "Male",
+            "date_of_birth": "1995-02-16",
+            "img": "https://via.placeholder.com/640x480.png/0099dd?text=animals+similique",
+            "desc": "Vero et voluptates rem blanditiis quibusdam aut. Exercitationem dolores est magni harum iure ex. Reiciendis quisquam quidem non tenetur voluptate.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 174,
@@ -607,7 +1447,21 @@
         "movie_id": 2,
         "user_id": 75,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 75,
+            "email": "jayden19@example.net",
+            "slug": "voluptatem-animi-est-hic-consequatur",
+            "username": "Mario Kohler",
+            "gender": "Male",
+            "date_of_birth": "2017-05-11",
+            "img": "https://via.placeholder.com/640x480.png/00aabb?text=animals+facilis",
+            "desc": "Ut magnam id harum aut culpa cumque. Alias enim sit doloremque officiis. Id et quis amet et commodi. Quaerat quis impedit facilis. Aut libero aut quisquam rem necessitatibus provident facilis autem.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 175,
@@ -617,7 +1471,21 @@
         "movie_id": 6,
         "user_id": 82,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 82,
+            "email": "qmckenzie@example.net",
+            "slug": "sed-cupiditate-et-et-aut-est-dignissimos",
+            "username": "Mr. Frederic Nikolaus PhD",
+            "gender": "Male",
+            "date_of_birth": "2017-12-18",
+            "img": "https://via.placeholder.com/640x480.png/00bb44?text=animals+ut",
+            "desc": "Vero sint eos dolores quas sit quasi. Hic quia possimus numquam voluptates consectetur optio quod. Dolore officia quasi perspiciatis dignissimos eaque harum non. Autem sed expedita officia nihil accusamus eos odio. Adipisci consectetur doloremque consectetur voluptatem necessitatibus veritatis corrupti porro.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 176,
@@ -627,7 +1495,21 @@
         "movie_id": 14,
         "user_id": 66,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 66,
+            "email": "kameron.koelpin@example.com",
+            "slug": "eveniet-laboriosam-commodi-mollitia-ex-odio",
+            "username": "Miss Marielle Keebler Jr.",
+            "gender": "Male",
+            "date_of_birth": "2005-12-02",
+            "img": "https://via.placeholder.com/640x480.png/00aa11?text=optio",
+            "desc": "Non laboriosam quia quo eligendi magni. Quia rerum expedita ducimus sed. Voluptatem dolor velit perferendis eum. Harum et et ratione earum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 177,
@@ -637,7 +1519,21 @@
         "movie_id": 7,
         "user_id": 90,
         "updated_at": "2024-08-16T16:32:07.000000Z",
-        "created_at": "2024-08-16T16:32:07.000000Z"
+        "created_at": "2024-08-16T16:32:07.000000Z",
+        "akun": {
+            "id": 90,
+            "email": "veronica70@example.com",
+            "slug": "accusamus-illo-accusamus-enim-autem",
+            "username": "Nadia Crooks",
+            "gender": "Male",
+            "date_of_birth": "1985-04-07",
+            "img": "https://via.placeholder.com/640x480.png/004422?text=animals+similique",
+            "desc": "Voluptates aliquid ad illo. Voluptatum nemo voluptas at iste accusantium. Aspernatur eligendi fugiat laborum. Quo deserunt eos nemo consectetur ipsam harum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 179,
@@ -647,7 +1543,21 @@
         "movie_id": 4,
         "user_id": 67,
         "updated_at": "2024-08-16T16:32:08.000000Z",
-        "created_at": "2024-08-16T16:32:08.000000Z"
+        "created_at": "2024-08-16T16:32:08.000000Z",
+        "akun": {
+            "id": 67,
+            "email": "mathilde.adams@example.com",
+            "slug": "nostrum-et-et-totam-unde-voluptas-in-sunt",
+            "username": "Dr. Lorenza Strosin",
+            "gender": "Male",
+            "date_of_birth": "2017-08-18",
+            "img": "https://via.placeholder.com/640x480.png/0022bb?text=earum",
+            "desc": "Maxime qui culpa quo voluptas atque voluptatum magni. Et omnis dolor fugiat officia voluptas. Repellendus dolorem aut reprehenderit eum dolores quas. Voluptates dolores atque temporibus veniam fugiat.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 180,
@@ -657,7 +1567,21 @@
         "movie_id": 13,
         "user_id": 79,
         "updated_at": "2024-08-17T06:35:08.000000Z",
-        "created_at": "2024-08-16T16:32:08.000000Z"
+        "created_at": "2024-08-16T16:32:08.000000Z",
+        "akun": {
+            "id": 79,
+            "email": "torphy.tom@example.net",
+            "slug": "quibusdam-id-voluptatem-necessitatibus-aliquam-exercitationem-aut-provident",
+            "username": "Brisa Koss",
+            "gender": "Male",
+            "date_of_birth": "1979-11-23",
+            "img": "https://via.placeholder.com/640x480.png/0088dd?text=animals+ut",
+            "desc": "Numquam autem quo quia quo est voluptatum quaerat eos. Praesentium sit sunt ratione error. Dicta asperiores ipsum alias molestias occaecati magnam.",
+            "title": "",
+            "Exp": 0,
+            "updated_at": "2024-08-17T06:35:08.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 181,
@@ -667,7 +1591,21 @@
         "movie_id": 15,
         "user_id": 83,
         "updated_at": "2024-08-16T16:32:08.000000Z",
-        "created_at": "2024-08-16T16:32:08.000000Z"
+        "created_at": "2024-08-16T16:32:08.000000Z",
+        "akun": {
+            "id": 83,
+            "email": "keebler.elena@example.net",
+            "slug": "sed-perspiciatis-odio-omnis-et-velit-expedita-ullam-ut",
+            "username": "Tristian Hermann",
+            "gender": "Male",
+            "date_of_birth": "1991-07-03",
+            "img": "https://via.placeholder.com/640x480.png/005522?text=animals+fugiat",
+            "desc": "Possimus in natus non nostrum laboriosam impedit velit. Et aliquid ab accusantium error.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 182,
@@ -677,7 +1615,21 @@
         "movie_id": 11,
         "user_id": 72,
         "updated_at": "2024-08-16T16:32:08.000000Z",
-        "created_at": "2024-08-16T16:32:08.000000Z"
+        "created_at": "2024-08-16T16:32:08.000000Z",
+        "akun": {
+            "id": 72,
+            "email": "mgislason@example.com",
+            "slug": "quia-aspernatur-et-velit-voluptatum-tenetur",
+            "username": "Laurence Walsh",
+            "gender": "Male",
+            "date_of_birth": "1970-08-02",
+            "img": "https://via.placeholder.com/640x480.png/00ccee?text=animals+omnis",
+            "desc": "Saepe doloribus voluptatem fugit ipsum. Consequuntur nemo aspernatur ullam alias inventore omnis omnis ut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 183,
@@ -687,7 +1639,21 @@
         "movie_id": 16,
         "user_id": 72,
         "updated_at": "2024-08-16T16:32:08.000000Z",
-        "created_at": "2024-08-16T16:32:08.000000Z"
+        "created_at": "2024-08-16T16:32:08.000000Z",
+        "akun": {
+            "id": 72,
+            "email": "mgislason@example.com",
+            "slug": "quia-aspernatur-et-velit-voluptatum-tenetur",
+            "username": "Laurence Walsh",
+            "gender": "Male",
+            "date_of_birth": "1970-08-02",
+            "img": "https://via.placeholder.com/640x480.png/00ccee?text=animals+omnis",
+            "desc": "Saepe doloribus voluptatem fugit ipsum. Consequuntur nemo aspernatur ullam alias inventore omnis omnis ut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 184,
@@ -697,7 +1663,21 @@
         "movie_id": 9,
         "user_id": 69,
         "updated_at": "2024-08-16T16:32:08.000000Z",
-        "created_at": "2024-08-16T16:32:08.000000Z"
+        "created_at": "2024-08-16T16:32:08.000000Z",
+        "akun": {
+            "id": 69,
+            "email": "larkin.ignacio@example.com",
+            "slug": "unde-nam-quidem-repudiandae-consequatur-est-adipisci-quidem",
+            "username": "Neva Hoppe",
+            "gender": "Male",
+            "date_of_birth": "1987-05-16",
+            "img": "https://via.placeholder.com/640x480.png/0033bb?text=animals+accusantium",
+            "desc": "Ut debitis ea quam et quibusdam quis. Quo non unde aut cupiditate perferendis.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 186,
@@ -707,7 +1687,21 @@
         "movie_id": 1,
         "user_id": 66,
         "updated_at": "2024-08-16T16:32:09.000000Z",
-        "created_at": "2024-08-16T16:32:09.000000Z"
+        "created_at": "2024-08-16T16:32:09.000000Z",
+        "akun": {
+            "id": 66,
+            "email": "kameron.koelpin@example.com",
+            "slug": "eveniet-laboriosam-commodi-mollitia-ex-odio",
+            "username": "Miss Marielle Keebler Jr.",
+            "gender": "Male",
+            "date_of_birth": "2005-12-02",
+            "img": "https://via.placeholder.com/640x480.png/00aa11?text=optio",
+            "desc": "Non laboriosam quia quo eligendi magni. Quia rerum expedita ducimus sed. Voluptatem dolor velit perferendis eum. Harum et et ratione earum.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:48:17.000000Z",
+            "created_at": "2024-08-16T15:48:17.000000Z"
+        }
     },
     {
         "review_id": 188,
@@ -717,7 +1711,21 @@
         "movie_id": 1,
         "user_id": 87,
         "updated_at": "2024-08-16T16:32:09.000000Z",
-        "created_at": "2024-08-16T16:32:09.000000Z"
+        "created_at": "2024-08-16T16:32:09.000000Z",
+        "akun": {
+            "id": 87,
+            "email": "isac38@example.com",
+            "slug": "rem-rerum-harum-et-rem-voluptate-dolor-distinctio",
+            "username": "Joanne Jakubowski",
+            "gender": "Male",
+            "date_of_birth": "2003-10-23",
+            "img": "https://via.placeholder.com/640x480.png/007766?text=animals+repellendus",
+            "desc": "Temporibus magnam consequatur soluta quibusdam. Corporis cum dignissimos et non. Dicta sed ut architecto aut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 189,
@@ -727,7 +1735,21 @@
         "movie_id": 5,
         "user_id": 93,
         "updated_at": "2024-08-16T16:32:09.000000Z",
-        "created_at": "2024-08-16T16:32:09.000000Z"
+        "created_at": "2024-08-16T16:32:09.000000Z",
+        "akun": {
+            "id": 93,
+            "email": "stacy87@example.net",
+            "slug": "id-dolorum-sint-hic-quidem-debitis-qui-provident",
+            "username": "Daphney Turner II",
+            "gender": "Male",
+            "date_of_birth": "2012-11-16",
+            "img": "https://via.placeholder.com/640x480.png/004466?text=animals+voluptatibus",
+            "desc": "Totam sed est velit. Architecto quasi sapiente minus suscipit aut consequatur dolores. Voluptatum beatae nesciunt est.",
+            "title": "Movie Enjoyer",
+            "Exp": 25,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 190,
@@ -737,7 +1759,21 @@
         "movie_id": 9,
         "user_id": 78,
         "updated_at": "2024-08-16T16:32:09.000000Z",
-        "created_at": "2024-08-16T16:32:09.000000Z"
+        "created_at": "2024-08-16T16:32:09.000000Z",
+        "akun": {
+            "id": 78,
+            "email": "ward.mohr@example.net",
+            "slug": "dignissimos-quod-porro-voluptas-nostrum-qui-et",
+            "username": "Josie Klocko",
+            "gender": "Male",
+            "date_of_birth": "2002-05-04",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+similique",
+            "desc": "Qui aut aut sit molestias et illo. Ea consectetur molestiae enim ex similique sapiente dolores. Sunt sed dolores molestias et incidunt. Nihil repudiandae asperiores minus qui recusandae.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:12.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 192,
@@ -747,7 +1783,21 @@
         "movie_id": 1,
         "user_id": 72,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 72,
+            "email": "mgislason@example.com",
+            "slug": "quia-aspernatur-et-velit-voluptatum-tenetur",
+            "username": "Laurence Walsh",
+            "gender": "Male",
+            "date_of_birth": "1970-08-02",
+            "img": "https://via.placeholder.com/640x480.png/00ccee?text=animals+omnis",
+            "desc": "Saepe doloribus voluptatem fugit ipsum. Consequuntur nemo aspernatur ullam alias inventore omnis omnis ut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 193,
@@ -757,7 +1807,21 @@
         "movie_id": 9,
         "user_id": 85,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 85,
+            "email": "manuela15@example.com",
+            "slug": "sapiente-dignissimos-possimus-architecto-ipsa",
+            "username": "Mrs. Meaghan Runolfsson",
+            "gender": "Male",
+            "date_of_birth": "2022-03-23",
+            "img": "https://via.placeholder.com/640x480.png/0033bb?text=animals+ut",
+            "desc": "Eum sit molestiae ullam ex. Tempora veniam quibusdam et. Odio nemo eos commodi deserunt iste.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 194,
@@ -767,7 +1831,21 @@
         "movie_id": 10,
         "user_id": 80,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 80,
+            "email": "renner.heaven@example.com",
+            "slug": "officia-sed-soluta-vero-in-nemo-id",
+            "username": "Ara Baumbach",
+            "gender": "Male",
+            "date_of_birth": "2019-04-25",
+            "img": "https://via.placeholder.com/640x480.png/006677?text=animals+et",
+            "desc": "Fugit nam quia illo maxime natus unde voluptate. Aut voluptas quo quo sequi. Ut consectetur at id reiciendis laborum eligendi ratione. Commodi saepe inventore sapiente eum eum est eos.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 195,
@@ -777,7 +1855,21 @@
         "movie_id": 17,
         "user_id": 80,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 80,
+            "email": "renner.heaven@example.com",
+            "slug": "officia-sed-soluta-vero-in-nemo-id",
+            "username": "Ara Baumbach",
+            "gender": "Male",
+            "date_of_birth": "2019-04-25",
+            "img": "https://via.placeholder.com/640x480.png/006677?text=animals+et",
+            "desc": "Fugit nam quia illo maxime natus unde voluptate. Aut voluptas quo quo sequi. Ut consectetur at id reiciendis laborum eligendi ratione. Commodi saepe inventore sapiente eum eum est eos.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 196,
@@ -787,7 +1879,21 @@
         "movie_id": 15,
         "user_id": 91,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 91,
+            "email": "runolfsdottir.winnifred@example.org",
+            "slug": "asperiores-necessitatibus-et-rerum-quisquam-perferendis-nam",
+            "username": "Elmo Gutmann",
+            "gender": "Male",
+            "date_of_birth": "1981-05-17",
+            "img": "https://via.placeholder.com/640x480.png/0011dd?text=animals+aut",
+            "desc": "Saepe sapiente sequi eligendi non a id. Doloremque tenetur quis est quos. Ut laborum id sed quasi. Perferendis suscipit aut enim est error ut consequatur.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 197,
@@ -797,7 +1903,21 @@
         "movie_id": 4,
         "user_id": 87,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 87,
+            "email": "isac38@example.com",
+            "slug": "rem-rerum-harum-et-rem-voluptate-dolor-distinctio",
+            "username": "Joanne Jakubowski",
+            "gender": "Male",
+            "date_of_birth": "2003-10-23",
+            "img": "https://via.placeholder.com/640x480.png/007766?text=animals+repellendus",
+            "desc": "Temporibus magnam consequatur soluta quibusdam. Corporis cum dignissimos et non. Dicta sed ut architecto aut.",
+            "title": "Movie Reviewer",
+            "Exp": 20,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 198,
@@ -807,7 +1927,21 @@
         "movie_id": 7,
         "user_id": 98,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 98,
+            "email": "elody.shanahan@example.net",
+            "slug": "dignissimos-qui-voluptate-voluptatibus-eius-magni-earum-velit",
+            "username": "Prof. Hudson Rempel V",
+            "gender": "Male",
+            "date_of_birth": "1976-02-28",
+            "img": "https://via.placeholder.com/640x480.png/00eeff?text=animals+voluptatem",
+            "desc": "Qui aut possimus illo. Et id porro sit commodi aspernatur quas et. Vitae qui id recusandae alias error neque. Eligendi consequatur optio qui sed.",
+            "title": "Movie Reviewer",
+            "Exp": 15,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 199,
@@ -817,7 +1951,21 @@
         "movie_id": 6,
         "user_id": 93,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 93,
+            "email": "stacy87@example.net",
+            "slug": "id-dolorum-sint-hic-quidem-debitis-qui-provident",
+            "username": "Daphney Turner II",
+            "gender": "Male",
+            "date_of_birth": "2012-11-16",
+            "img": "https://via.placeholder.com/640x480.png/004466?text=animals+voluptatibus",
+            "desc": "Totam sed est velit. Architecto quasi sapiente minus suscipit aut consequatur dolores. Voluptatum beatae nesciunt est.",
+            "title": "Movie Enjoyer",
+            "Exp": 25,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 200,
@@ -827,7 +1975,21 @@
         "movie_id": 18,
         "user_id": 77,
         "updated_at": "2024-11-15T02:49:02.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 77,
+            "email": "vernie.rau@example.com",
+            "slug": "libero-et-veniam-quam-quaerat-autem-aut-vero",
+            "username": "Miss Everette Schuster",
+            "gender": "Male",
+            "date_of_birth": "1981-07-06",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+odio",
+            "desc": "Architecto aut delectus eum deleniti. Natus et ratione beatae recusandae animi rem enim qui. Saepe sed facilis eos iusto ab at. Asperiores maxime minus et explicabo excepturi.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:02.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 201,
@@ -837,7 +1999,21 @@
         "movie_id": 16,
         "user_id": 74,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 74,
+            "email": "tbatz@example.net",
+            "slug": "et-ut-enim-fugit-assumenda-natus",
+            "username": "Desiree Johnson",
+            "gender": "Male",
+            "date_of_birth": "2003-09-21",
+            "img": "https://via.placeholder.com/640x480.png/00ffdd?text=animals+consequatur",
+            "desc": "Sequi possimus nulla quidem autem. Architecto commodi dolor ullam cum quam aut. Consequatur sunt consequuntur libero incidunt qui ut sequi. Eos impedit provident cupiditate.",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-16T15:57:57.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 202,
@@ -847,7 +2023,21 @@
         "movie_id": 8,
         "user_id": 77,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 77,
+            "email": "vernie.rau@example.com",
+            "slug": "libero-et-veniam-quam-quaerat-autem-aut-vero",
+            "username": "Miss Everette Schuster",
+            "gender": "Male",
+            "date_of_birth": "1981-07-06",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+odio",
+            "desc": "Architecto aut delectus eum deleniti. Natus et ratione beatae recusandae animi rem enim qui. Saepe sed facilis eos iusto ab at. Asperiores maxime minus et explicabo excepturi.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:02.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 203,
@@ -857,7 +2047,21 @@
         "movie_id": 12,
         "user_id": 99,
         "updated_at": "2024-08-16T16:32:10.000000Z",
-        "created_at": "2024-08-16T16:32:10.000000Z"
+        "created_at": "2024-08-16T16:32:10.000000Z",
+        "akun": {
+            "id": 99,
+            "email": "asdasdas@gmail.com",
+            "slug": "risisi1452923",
+            "username": "Risisi",
+            "gender": "Male",
+            "date_of_birth": "2024-08-01",
+            "img": "Users/RcOtFHE0ATzcJAK2jhfsxxsE6GuzKQ1WYE2qrqdB.png",
+            "desc": "asd",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-17T06:36:52.000000Z",
+            "created_at": "2024-08-16T16:09:05.000000Z"
+        }
     },
     {
         "review_id": 205,
@@ -867,7 +2071,21 @@
         "movie_id": 3,
         "user_id": 73,
         "updated_at": "2024-08-16T16:32:11.000000Z",
-        "created_at": "2024-08-16T16:32:11.000000Z"
+        "created_at": "2024-08-16T16:32:11.000000Z",
+        "akun": {
+            "id": 73,
+            "email": "amari.blanda@example.org",
+            "slug": "doloribus-sit-quis-saepe-modi-hic-quibusdam-aut-nihil",
+            "username": "Coralie Kuhn",
+            "gender": "Male",
+            "date_of_birth": "1998-12-18",
+            "img": "https://via.placeholder.com/640x480.png/00ff33?text=animals+ad",
+            "desc": "Omnis unde voluptas autem nemo ut. Laudantium cum quia enim sequi odio eveniet. Sint impedit soluta alias ullam molestiae eos.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:05.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 206,
@@ -877,7 +2095,21 @@
         "movie_id": 5,
         "user_id": 77,
         "updated_at": "2024-08-16T16:32:11.000000Z",
-        "created_at": "2024-08-16T16:32:11.000000Z"
+        "created_at": "2024-08-16T16:32:11.000000Z",
+        "akun": {
+            "id": 77,
+            "email": "vernie.rau@example.com",
+            "slug": "libero-et-veniam-quam-quaerat-autem-aut-vero",
+            "username": "Miss Everette Schuster",
+            "gender": "Male",
+            "date_of_birth": "1981-07-06",
+            "img": "https://via.placeholder.com/640x480.png/00ee44?text=animals+odio",
+            "desc": "Architecto aut delectus eum deleniti. Natus et ratione beatae recusandae animi rem enim qui. Saepe sed facilis eos iusto ab at. Asperiores maxime minus et explicabo excepturi.",
+            "title": "Movie Reviewer",
+            "Exp": 5,
+            "updated_at": "2024-11-15T02:49:02.000000Z",
+            "created_at": "2024-08-16T15:57:57.000000Z"
+        }
     },
     {
         "review_id": 208,
@@ -887,7 +2119,21 @@
         "movie_id": 18,
         "user_id": 99,
         "updated_at": "2024-11-15T02:48:48.000000Z",
-        "created_at": "2024-11-15T02:48:48.000000Z"
+        "created_at": "2024-11-15T02:48:48.000000Z",
+        "akun": {
+            "id": 99,
+            "email": "asdasdas@gmail.com",
+            "slug": "risisi1452923",
+            "username": "Risisi",
+            "gender": "Male",
+            "date_of_birth": "2024-08-01",
+            "img": "Users/RcOtFHE0ATzcJAK2jhfsxxsE6GuzKQ1WYE2qrqdB.png",
+            "desc": "asd",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-17T06:36:52.000000Z",
+            "created_at": "2024-08-16T16:09:05.000000Z"
+        }
     },
     {
         "review_id": 209,
@@ -897,6 +2143,20 @@
         "movie_id": 9,
         "user_id": 99,
         "updated_at": "2024-11-22T05:27:51.000000Z",
-        "created_at": "2024-11-22T05:27:51.000000Z"
+        "created_at": "2024-11-22T05:27:51.000000Z",
+        "akun": {
+            "id": 99,
+            "email": "asdasdas@gmail.com",
+            "slug": "risisi1452923",
+            "username": "Risisi",
+            "gender": "Male",
+            "date_of_birth": "2024-08-01",
+            "img": "Users/RcOtFHE0ATzcJAK2jhfsxxsE6GuzKQ1WYE2qrqdB.png",
+            "desc": "asd",
+            "title": "Movie Reviewer",
+            "Exp": 10,
+            "updated_at": "2024-08-17T06:36:52.000000Z",
+            "created_at": "2024-08-16T16:09:05.000000Z"
+        }
     }
 ]
